@@ -1,0 +1,5 @@
+安装
+参考OpenCV官网https://docs.opencv.org/master/index.html，Tutorial部分Introduction to OpenCV的三篇：
+1. Installation in Windows
+2. How to build applications with OpenCV inside the "Microsoft Visual Studio"
+3. Image Watch: viewing in-memory images in the Visual Studio debugger
